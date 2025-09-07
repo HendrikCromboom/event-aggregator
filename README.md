@@ -66,4 +66,6 @@ I estimate that it would be sufficient to keep the application fast and just in 
 ## Overall architecture
 
 Backend: Node.js(TS: Typing will make the API calls more universal, Axios/Fetch: API calls, Redis: Queues, Node.js Cluster/PM2: Clusters and overal Process Management)
+
 Front-End: React(TS: Same as above, Tailwind, Leaflet: Maps, Framer Motion: Animations)
+
